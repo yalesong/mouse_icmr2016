@@ -1,6 +1,6 @@
 #Yahoo Screen Video-Mouse Activity Dataset (ICMR 2016)
 
-This repository contains the Yahoo Screen video-mouse activity dataset used in our ICMR 2016 paper **"Mouse Activity as an Indicator of Interestingness in Video"** 
+This repository contains the video-mouse activity dataset used in our ICMR 2016 paper **"Mouse Activity as an Indicator of Interestingness in Video"** 
 
 ## Introduction
 This dataset includes 497 videos from Yahoo Screen and their user mouse activity logs. The dataset was used for evaluating our technique presented in ICMR 2016.
